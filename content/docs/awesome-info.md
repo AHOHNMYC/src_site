@@ -57,3 +57,8 @@ https://github.com/netstalking-core/netstalking-catalogue - Сообщество
 ## GNU/linux gaming
 https://github.com/LinuxCafeFederation/awesome-gnu-linux-gaming - Самая большая сборка тонкостей про гейминг под linux  
 https://tkashkin.tk/ - единый интерфейс для настройки и запуска игр под linux  
+
+## Front-end
+https://github.com/acilsd/wrk-fet - Как и где изучать фронт  
+http://webmasters.teamdev.com/#curiosity - Пособие по вёрстке и не только  
+https://www.figma.com/ - Прототипирование интерфейсов  
