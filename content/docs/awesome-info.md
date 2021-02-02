@@ -62,3 +62,9 @@ https://tkashkin.tk/ - единый интерфейс для настройки
 https://github.com/acilsd/wrk-fet - Как и где изучать фронт  
 http://webmasters.teamdev.com/#curiosity - Пособие по вёрстке и не только  
 https://www.figma.com/ - Прототипирование интерфейсов  
+
+## Языки  
+https://gist.github.com/123159753/947c0c60a642495303b163bee4933ccb - Информация по изучению английского  
+http://lurkmore.to/fl#The_Ultimate_.2Ffl.2F_Guide_for_Languages - Сборник по изучению языков с /fl/  
+
+
