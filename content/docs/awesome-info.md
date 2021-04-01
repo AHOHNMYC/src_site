@@ -5,25 +5,17 @@ type: docs
 
 Список полезных списков и собранных знаний на русском.
 
-## LPIC подготовка
+## Linux
+https://github.com/tsnsoft/Linux - Лекции по linux  
+https://github.com/fhunter/unix-lectures - Лекции по командной строке и unix.   
+
+### LPIC подготовка
 https://github.com/ksemaev/lpic_1-101  
 https://github.com/ksemaev/lpic_1-102  
 https://github.com/ksemaev/lpic_2-201  
 
-## Лекции и похожие материалы
-https://github.com/doloz/13161 - методы защиты информации, дгла, философия, теория чисел   
-https://github.com/valentiay/analmech - аналитическая механника  
-https://github.com/FedorSarafanov/atomic-lections2 - атомная физика  
-https://github.com/adambard/learnxinyminutes-docs https://learnxinyminutes.com/ - изучи Х за Y минут, есть материалы на русском    
-https://github.com/Shadow326159/Lectures - Лекции по фундаментальной и компьютерной алгебре  
-https://github.com/adhaesitadimo/hse-ami-lectures - конспекты лекций 1-го курса ПМИ  
-https://github.com/AzizovMV/LecturesKT - Лекции по компьютерным технолгиям  
-https://github.com/tsnsoft/Linux - Лекции по linux    
-https://github.com/shahurik/num-cmc - Лекции по курсу «Численные методы»  
-https://github.com/eucariot/SDSM- Сети для самых маленьких  
-https://github.com/slowli/software-engineering-lectures - Лекции по программной инженерии  
-https://github.com/fhunter/unix-lectures - Лекции по командной строке и unix.  
-https://neuralnet.info/ - машинное обучение  
+### Основы GNU-Linux и подготовка к RHCSA  
+https://gitlab.com/doatta/gnu-linux-rhcsa   
 
 ## Программирование
 https://github.com/javascript-tutorial/ru.javascript.info/tree/master - Обучение javascript
@@ -50,10 +42,6 @@ https://wikidevi.wi-cat.ru/ - Сетевое оборудование
 https://github.com/ThinkPadThink/Thinkpadthinkpad https://github.com/pepe-i-shim/thinkpad-from-ebay http://www.thinkwiki.org/ - О ноутбуках серии ThinkPad  
 https://xeon-e5450.ru/ https://github.com/ThinkPadThink/Guide2011-3 - Использование xeon на рабочем пк и китайских материнских плат  
 
-## Сообщества  
-https://github.com/russian-meshnet/faq - Сообщество по mesh сетям и распределённым системам  
-https://github.com/netstalking-core/netstalking-catalogue - Сообщество по поиску в сети  
-
 ## GNU/linux gaming
 https://github.com/LinuxCafeFederation/awesome-gnu-linux-gaming - Самая большая сборка тонкостей про гейминг под linux  
 https://tkashkin.tk/ - единый интерфейс для настройки и запуска игр под linux  
@@ -67,4 +55,15 @@ https://www.figma.com/ - Прототипирование интерфейсов
 https://gist.github.com/123159753/947c0c60a642495303b163bee4933ccb - Информация по изучению английского  
 http://lurkmore.to/fl#The_Ultimate_.2Ffl.2F_Guide_for_Languages - Сборник по изучению языков с /fl/  
 
-
+## Лекции и похожие материалы
+https://github.com/doloz/13161 - методы защиты информации, дгла, философия, теория чисел   
+https://github.com/valentiay/analmech - аналитическая механника  
+https://github.com/FedorSarafanov/atomic-lections2 - атомная физика  
+https://github.com/adambard/learnxinyminutes-docs https://learnxinyminutes.com/ - изучи Х за Y минут, есть материалы на русском    
+https://github.com/Shadow326159/Lectures - Лекции по фундаментальной и компьютерной алгебре  
+https://github.com/adhaesitadimo/hse-ami-lectures - конспекты лекций 1-го курса ПМИ  
+https://github.com/AzizovMV/LecturesKT - Лекции по компьютерным технолгиям  
+https://github.com/shahurik/num-cmc - Лекции по курсу «Численные методы»  
+https://github.com/eucariot/SDSM- Сети для самых маленьких  
+https://github.com/slowli/software-engineering-lectures - Лекции по программной инженерии   
+https://neuralnet.info/ - машинное обучение 
