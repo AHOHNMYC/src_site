@@ -5,19 +5,15 @@
     <link>https://infoanarchy.github.io/</link>
     <description>Recent content in Главная страница on Infoanarchy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    
-	<atom:link href="https://infoanarchy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ru</language><atom:link href="https://infoanarchy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Андроид приложения</title>
       <link>https://infoanarchy.github.io/docs/android_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/android_app/</guid>
-      <description>YouTube Vanced - Приложение позволяющее без рекламы смотреть youtube, так же умеет сам проматывать рекламные интеграции в видео. Работает функция фонового воспроизведения и воспроизведения в окне. Так же есть аналог для youtube music, устанавливать лучше всего через Vanced manager. Советуем отключить автообновление этих приложений в маркете, иначе придёться устанавливать vanced каждый раз после обновления.
- Newpipe - Клиент youtube, открытый, без рекламы, с фоновым просмотром, загрузкой видео и неудобными подсказками видео.</description>
+      <description>YouTube Vanced - Приложение позволяющее без рекламы смотреть youtube, так же умеет сам проматывать рекламные интеграции в видео. Работает функция фонового воспроизведения и воспроизведения в окне. Так же есть аналог для youtube music, устанавливать лучше всего через Vanced manager. Советуем отключить автообновление этих приложений в маркете, иначе придётся устанавливать vanced каждый раз после обновления.
+Newpipe - Клиент youtube, открытый, без рекламы, с фоновым просмотром, загрузкой видео и неудобными подсказками видео.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/varez_link/</guid>
-      <description>Софт на пекарню:   alternativeto.net - Хороший, годный ресурс для поиска софта и аналогов к нему.  irdevelopers.com  rsload.net  onhax.me  portableapps.com  startcrack.com  teamos-hkrg.com  karanpc.com - Варез, кряки, репаки, кейгены.  Софт на ведроид:   4pda.ru  apk4fun.com  apkmirror.com  apkpure.com  trashbox.ru  mob.org  Игры:   Skidrow, CPY - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют.</description>
+      <description>Софт на пекарню:  alternativeto.net - Хороший, годный ресурс для поиска софта и аналогов к нему. irdevelopers.com rsload.net onhax.me portableapps.com startcrack.com teamos-hkrg.com karanpc.com - Варез, кряки, репаки, кейгены.  Софт на ведроид:  4pda.ru apk4fun.com apkmirror.com apkpure.com trashbox.ru mob.org  Игры:  Skidrow, CPY - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят.</description>
     </item>
     
     <item>
@@ -50,6 +46,16 @@
   https://en.wikipedia.org/wiki/Wikipedia:Database_download Дамп википедии с инструкцией.
   https://wiki.kiwix.org/wiki/Content_in_all_languages - Дампы вики и не только.
   https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550 Дамп лурочки от мая 2018 года в формате .chm (Статьи типа Конопля/твоя мать - заблочены - другими словами дамп качал жопорук без прокси, если хочешь почитать о Конопля без заглушки перекачай через прокси например Польши (можешь даже скинуть нам новый дамп))</description>
+    </item>
+    
+    <item>
+      <title>Инфоанархизм кратко</title>
+      <link>https://infoanarchy.github.io/docs/infoanarchy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/infoanarchy/</guid>
+      <description>Свободное обсуждение и распространение информации способствует развитию всего человечества. Люди, независимо от социального и экономического положения, если имеют доступ к знаниям, способны улучшать свою жизнь и жизнь окружающих. Мы не так много знаем об окружающем мире, а ещё меньше знает среднестатистический человек, делая информацию закрытой, мы тормозим миропознание всего общества.
+Из тезисов приведённых выше ясно, что доступ к информации, её свободное распространение и обсуждение являются одними из важнейших человеческих прав в современном мире, если этот мир хочет двигаться в сторону улучшения жизни каждого человека.</description>
     </item>
     
     <item>
@@ -156,31 +162,40 @@ http://canarytokens.org/generate
     
     <item>
       <title>Создание домашней файлопомойки</title>
-      <link>https://infoanarchy.github.io/docs/Network-Attached-Storage/</link>
+      <link>https://infoanarchy.github.io/docs/network-attached-storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://infoanarchy.github.io/docs/Network-Attached-Storage/</guid>
+      <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
       <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
     </item>
     
     <item>
-      <title>Ссылки на лекции и обучающие материалы</title>
+      <title>Ссылки на обучающие и полезные материалы</title>
       <link>https://infoanarchy.github.io/docs/awesome-info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/awesome-info/</guid>
       <description>Список полезных списков и собранных знаний на русском.
+Linux https://github.com/tsnsoft/Linux - Лекции по linux
+https://github.com/fhunter/unix-lectures - Лекции по командной строке и unix.
 LPIC подготовка https://github.com/ksemaev/lpic_1-101
 https://github.com/ksemaev/lpic_1-102
 https://github.com/ksemaev/lpic_2-201
-Лекции и похожие материалы https://github.com/doloz/13161 - методы защиты информации, дгла, философия, теория чисел
-https://github.com/valentiay/analmech - аналитическая механника
-https://github.com/FedorSarafanov/atomic-lections2 - атомная физика
-https://github.com/adambard/learnxinyminutes-docs https://learnxinyminutes.com/ - изучи Х за Y минут, есть материалы на русском https://github.com/Shadow326159/Lectures - Лекции по фундаментальной и компьютерной алгебре
-https://github.com/adhaesitadimo/hse-ami-lectures - конспекты лекций 1-го курса ПМИ
-https://github.com/AzizovMV/LecturesKT - Лекции по компьютерным технолгиям
-https://github.com/tsnsoft/Linux - Лекции по linux https://github.</description>
+Основы GNU-Linux и подготовка к RHCSA https://gitlab.com/doatta/gnu-linux-rhcsa
+Программирование https://github.com/javascript-tutorial/ru.javascript.info/tree/master - Обучение javascript https://github.com/kontur-course-nsk/lecture - Тут описаны семинарские занятия потока backend (C#) школы разработки СКБ Контур в Новосибирске https://github.com/Konstantin8105/Effective_Go_RU - Самоучитель golang
+https://github.com/cvlabmiet/master-programming - Лекции по программированию для студентов НИУ МИЭТ. https://github.com/kolei/OAP - Основы алгоритмизации и программирования</description>
+    </item>
+    
+    <item>
+      <title>Ссылки на сообщества</title>
+      <link>https://infoanarchy.github.io/docs/communities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/communities/</guid>
+      <description>https://github.com/russian-meshnet/faq - Сообщество по mesh сетям и распределённым системам
+https://github.com/netstalking-core/netstalking-catalogue - Сообщество по поиску по окрытым источникам в сети
+https://github.com/goq/telegram-list - Огромный список it групп и каналов в телеграмме</description>
     </item>
     
   </channel>

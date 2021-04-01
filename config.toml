@@ -3,6 +3,8 @@ languageCode = "ru"
 title = "Infoanarchy"
 theme = 'book'
 
+#https://github.com/alex-shpak/hugo-book/
+
 defaultContentLanguage = "ru"
 
 #[languages]
