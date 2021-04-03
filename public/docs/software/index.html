@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="ru" dir=>
+<html lang="ru" dir="ltr">
 
 <head>
-  <meta name="generator" content="Hugo 0.68.3" />
+  <meta name="generator" content="Hugo 0.80.0" />
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Скачивать c YouTube лучше всего с Ummy Downloader, для пердоликов youtube-dl.
@@ -12,12 +12,12 @@
   Для скачивания рандомных сайтов подойдёт Teleport Pro (Есть ещё версия ULTRA, которая добавляет возможность запихнуть в .txt файл до 4094 ссылки и скачать их), прога крайне проста, но нужно аккуратно вбивать, чтобы не скачать пол интернета. Из аналогов есть HTTrack Website Copier, WebCopy, Darcy Ripper, MetaProducts Offline Explorer. Вот Teleport Pro крякнутая и ру$$сифицированная, пароль к архиву kilo." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://infoanarchy.github.io/docs/software/" />
-<meta property="article:modified_time" content="2021-01-04T14:36:53+03:00" />
+<meta property="article:modified_time" content="2021-02-02T21:42:05+03:00" />
 <title>Как доставать контент из интернета | Infoanarchy</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.09a284f5a03730d86dde350d2c062b1514e48fdfebba7763941c0674ef65748f.css" integrity="sha256-CaKE9aA3MNht3jUNLAYrFRTkj9/rundjlBwGdO9ldI8=">
-<script defer src="/ru.search.min.6822b6926f7e8433e4f14b6c041236eed63df5887e3ece1f71c546e9f75b2331.js" integrity="sha256-aCK2km9&#43;hDPk8UtsBBI27tY99Yh&#43;Ps4fccVG6fdbIzE="></script>
+<script defer src="/ru.search.min.f8e417b3ede2d3e356bb936fbe45b8d3ee56b0aca42004b662c30d336e17a4d2.js" integrity="sha256-&#43;OQXs&#43;3i0&#43;NWu5NvvkW40&#43;5WsKykIAS2YsMNM24XpNI="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <!--
@@ -28,12 +28,13 @@ https://github.com/alex-shpak/hugo-book
   
 </head>
 
-<body dir=>
+<body dir="ltr">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      
+      <div class="book-menu-content">
+        
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>Infoanarchy</span>
@@ -123,6 +124,32 @@ https://github.com/alex-shpak/hugo-book
   
 
   
+    <a href="https://infoanarchy.github.io/docs/infoanarchy/" class="">Инфоанархизм кратко</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/info-bez/" class="">Информационная безопасность</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
     <a href="https://infoanarchy.github.io/docs/history/" class="">История ограничительных мер в РФ</a>
   
 
@@ -188,7 +215,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://infoanarchy.github.io/docs/Network-Attached-Storage/" class="">Создание домашней файлопомойки</a>
+    <a href="https://infoanarchy.github.io/docs/network-attached-storage/" class="">Создание домашней файлопомойки</a>
   
 
         </li>
@@ -201,7 +228,20 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://infoanarchy.github.io/docs/awesome-info/" class="">Ссылки на лекции и обучающие материалы</a>
+    <a href="https://infoanarchy.github.io/docs/awesome-info/" class="">Ссылки на обучающие и полезные материалы</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/communities/" class="">Ссылки на сообщества</a>
   
 
         </li>
@@ -232,6 +272,7 @@ https://github.com/alex-shpak/hugo-book
 
 
  
+      </div>
     </aside>
 
     <div class="book-page">
@@ -255,7 +296,9 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  <nav id="TableOfContents"></nav>
+  
+<nav id="TableOfContents"></nav>
+
 
 
   </aside>
@@ -287,6 +330,9 @@ https://github.com/alex-shpak/hugo-book
 <p>Скачивать потоковое видео можно найдя на странице ссылку <code>.m3u8</code> в панели разработчика F12 или Ctrl+Shift+J. Эту ссылку вставляем в VLC &ldquo;Медиa -&gt; Открыть URL&rdquo; в меню воспоизведения выбираем поток.
 Далее во вкладке вывод потока можно сохранить поток в файл.</p>
 </li>
+<li>
+<p>Для архивирования сайтов есть убер машина <a href="https://github.com/ArchiveBox/ArchiveBox/">https://github.com/ArchiveBox/ArchiveBox/</a></p>
+</li>
 </ul>
 </article>
  
@@ -298,16 +344,16 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  <div><a class="flex align-center" href="https://github.com/infoanarchy/src_site/commit/4579df0784b4a092ff5979f6344eb10d6bc41964" title='Последнее изменение от infoanarchy | January 4, 2021' target="_blank" rel="noopener">
+  <div><a class="flex align-center" href="https://github.com/infoanarchy/src_site/commit/93608a7b71bb4a5b7423e41890aaebd659e4da30" title='Последнее изменение от infoanarchy | February 2, 2021' target="_blank" rel="noopener">
       <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>January 4, 2021</span>
+      <span>February 2, 2021</span>
     </a>
   </div>
 
 
 
   <div>
-    <a class="flex align-center" href="https://github.com/infoanarchy/src_site/edit/master/content//docs/software.md" target="_blank" rel="noopener">
+    <a class="flex align-center" href="https://github.com/infoanarchy/src_site/edit/master/content/content/docs/software.md" target="_blank" rel="noopener">
       <img src="/svg/edit.svg" class="book-icon" alt="Edit" />
       <span>Редактировать эту страницу</span>
     </a>
@@ -332,10 +378,14 @@ https://github.com/alex-shpak/hugo-book
 
     
     <aside class="book-toc">
-      
-  <nav id="TableOfContents"></nav>
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
 
  
+      </div>
     </aside>
     
   </main>

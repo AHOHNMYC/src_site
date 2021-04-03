@@ -13,7 +13,7 @@
       
       <guid>https://infoanarchy.github.io/docs/android_app/</guid>
       <description>YouTube Vanced - Приложение позволяющее без рекламы смотреть youtube, так же умеет сам проматывать рекламные интеграции в видео. Работает функция фонового воспроизведения и воспроизведения в окне. Так же есть аналог для youtube music, устанавливать лучше всего через Vanced manager. Советуем отключить автообновление этих приложений в маркете, иначе придётся устанавливать vanced каждый раз после обновления.
-Newpipe - Клиент youtube, открытый, без рекламы, с фоновым просмотром, загрузкой видео и неудобными подсказками видео.</description>
+ Newpipe - Клиент youtube, открытый, без рекламы, с фоновым просмотром, загрузкой видео и неудобными подсказками видео.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@ Newpipe - Клиент youtube, открытый, без рекламы, с фо
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/varez_link/</guid>
-      <description>Софт на пекарню:  alternativeto.net - Хороший, годный ресурс для поиска софта и аналогов к нему. irdevelopers.com rsload.net onhax.me portableapps.com startcrack.com teamos-hkrg.com karanpc.com - Варез, кряки, репаки, кейгены.  Софт на ведроид:  4pda.ru apk4fun.com apkmirror.com apkpure.com trashbox.ru mob.org  Игры:  Skidrow, CPY - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят.</description>
+      <description>Софт на пекарню: #    alternativeto.net - Хороший, годный ресурс для поиска софта и аналогов к нему.  irdevelopers.com  rsload.net  onhax.me  portableapps.com  startcrack.com  teamos-hkrg.com  karanpc.com - Варез, кряки, репаки, кейгены.  Софт на ведроид: #    4pda.ru  apk4fun.com  apkmirror.com  apkpure.com  trashbox.ru  mob.org  Игры: #    Skidrow, CPY - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@ Newpipe - Клиент youtube, открытый, без рекламы, с фо
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/hdd-health/</guid>
-      <description>HDD диагностика. Современные диски содержат в себе компьютер уровня PC 15летней давности, который целиком и полностью управляет работой диска, следит за его здоровьем, и прочее прочее. Технология позволяющая пользователю получать доступ к диагностической информации называется SMART. Именно чтение СМАРТа позволит тебе понять что же происходит с диском. Для чтения СМАРТа существует множество утилит. Популярной утилитой под виндовс является Cristal Disk Info, качать тут: https://crystalmark.info/en/software/crystaldiskinfo/ в настройках включи показ raw значений в десятичном виде.</description>
+      <description>HDD диагностика. #  Современные диски содержат в себе компьютер уровня PC 15летней давности, который целиком и полностью управляет работой диска, следит за его здоровьем, и прочее прочее. Технология позволяющая пользователю получать доступ к диагностической информации называется SMART. Именно чтение СМАРТа позволит тебе понять что же происходит с диском. Для чтения СМАРТа существует множество утилит. Популярной утилитой под виндовс является Cristal Disk Info, качать тут: https://crystalmark.info/en/software/crystaldiskinfo/ в настройках включи показ raw значений в десятичном виде.</description>
     </item>
     
     <item>
@@ -56,6 +56,15 @@ Newpipe - Клиент youtube, открытый, без рекламы, с фо
       <guid>https://infoanarchy.github.io/docs/infoanarchy/</guid>
       <description>Свободное обсуждение и распространение информации способствует развитию всего человечества. Люди, независимо от социального и экономического положения, если имеют доступ к знаниям, способны улучшать свою жизнь и жизнь окружающих. Мы не так много знаем об окружающем мире, а ещё меньше знает среднестатистический человек, делая информацию закрытой, мы тормозим миропознание всего общества.
 Из тезисов приведённых выше ясно, что доступ к информации, её свободное распространение и обсуждение являются одними из важнейших человеческих прав в современном мире, если этот мир хочет двигаться в сторону улучшения жизни каждого человека.</description>
+    </item>
+    
+    <item>
+      <title>Информационная безопасность</title>
+      <link>https://infoanarchy.github.io/docs/info-bez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/info-bez/</guid>
+      <description>КНИГИ Поляков - Безопасность Oracle глазами аудитора: нападение и защита Paul Wright - Protecting Oracle Database 12c O&amp;rsquo;Connor - Violent Python Seitz - Gray Hat Python Гифт Джонс - Python в системном администрировании Василенко О. Н. - Теоретико-числовые алгоритмы в криптографии Борис Бейзер - Тестирование черного ящика Блинов — Информационная безопасность Горбатов/Полянская — Основы технологии PKI Саттон, Грин, Амини — Фаззинг: Исследование уязвимостей методом грубой силы Поулсен - KingPIN В.А. Сердюк - Организация и технологии защиты информации.</description>
     </item>
     
     <item>
@@ -95,30 +104,25 @@ Newpipe - Клиент youtube, открытый, без рекламы, с фо
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/ways_to_bypass_locks/</guid>
-      <description>Обмен файлами https://getsurge.io/ - Перспективная утилита для анонимного обмена файлами.
-Анонимное общение TOX https://tox.chat/
+      <description>Обмен файлами #  https://getsurge.io/ - Перспективная утилита для анонимного обмена файлами.
+Анонимное общение #  TOX #  https://tox.chat/
 http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/
-WIRE. Клиент: https://github.com/wireapp
+WIRE. #  Клиент: https://github.com/wireapp
 Сервер: https://github.com/wireapp/wire-server
-Bitmessage https://bitmessage.org/wiki/Main_Page
+Bitmessage #  https://bitmessage.org/wiki/Main_Page
 https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/
-Анонимные оверлейные сети Tor https://www.torproject.org/
+Анонимные оверлейные сети #  Tor #  https://www.torproject.org/
 https://ru.wikipedia.org/wiki/Tor
-I2P https://habr.com/en/post/97827/
+I2P #  https://habr.com/en/post/97827/
 https://geti2p.net/ru/
 https://github.com/PurpleI2P/i2pd
-Freenet http://zenway.ru/page/freenet
+Freenet #  http://zenway.ru/page/freenet
 https://freenetproject.org/
-Retroshare https://adorabilis.wordpress.com/rs-quick-entering/
+Retroshare #  https://adorabilis.wordpress.com/rs-quick-entering/
 https://habr.com/en/post/279031/
 http://retroshare.cc/
-Обход DPI GoodbyeDPI https://bitbucket.org/ValdikSS/goodbyedpi
-Сайты с теорией https://privacytools.ru/
-https://book.cyberyozh.com/ru/?fl=ru
-http://www.ifap.ru/library/book534.pdf - Настольная книга кибердиссидента
-Mesh сети https://github.com/russian-meshnet/meshnet-chat-agenda - очень годное русское сообщество.
-https://www.reddit.com/r/ru_meshnet
-Дистрибутивы линукс для обхода блокировок и анонимизации Linux Kodachi Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит.</description>
+Обход DPI #  GoodbyeDPI #  https://bitbucket.org/ValdikSS/goodbyedpi
+Сайты с теорией #  https://privacytools.</description>
     </item>
     
     <item>
@@ -127,7 +131,7 @@ https://www.reddit.com/r/ru_meshnet
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/osint/</guid>
-      <description>Telegram Поисковики по телеге https://search.buzz.im/
+      <description>Telegram #  Поисковики по телеге #  https://search.buzz.im/
 https://telemetr.me/
 https://lyzem.com/
 https://tgstat.ru/
@@ -135,29 +139,26 @@ http://telegcrack.com
 https://intelx.io/tools?tab=telegram
 https://t.me/MotherSearchBot
 https://cse.google.com/cse?&amp;amp; cx=006368593537057042503:efxu7xprihg#gsc.tab=0
-Поиск по никнейму https://namechk.com/
+Поиск по никнейму #  https://namechk.com/
 https://whatsmyname.app/
 https://instantusername.com/#/
 https://t.me/maigret_osint_bot
 https://infotracer.com/
 https://go.mail.ru/search_social
-Поиск по фото https://vk.watch/
+Поиск по фото #  https://vk.watch/
 https://findclone.ru/
 https://pimeyes.com/en/
 https://search4faces.com/
 https://yandex.ru/images/
-Узнать IP через звонок в телеге https://www.wireshark.org/download.html
-Другие логгеры для IP https://iplogger.ru/
+Узнать IP через звонок в телеге #  https://www.wireshark.org/download.html
+Другие логгеры для IP #  https://iplogger.ru/
 https://grabify.link/
 https://2ip.ru/strange-ip/
 http://ru.itsip.info/spy
 http://canarytokens.org/generate
-Боты @userinfobot (узнаем ID)
+Боты #  @userinfobot (узнаем ID)
 @username_to_id_bot (узнаем ID)
-@CheckID_AIDbot (узнаем ID)
-@telesint_bot (в каких чатах есть пользователь)
-@list_member_bot (выгрузка участников чата)
-@quant_parserbot (выгрузка участников чатов)</description>
+@CheckID_AIDbot (узнаем ID)</description>
     </item>
     
     <item>
@@ -166,7 +167,7 @@ http://canarytokens.org/generate
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
-      <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
+      <description>Network Attached Storage #  NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
     </item>
     
@@ -177,14 +178,14 @@ http://canarytokens.org/generate
       
       <guid>https://infoanarchy.github.io/docs/awesome-info/</guid>
       <description>Список полезных списков и собранных знаний на русском.
-Linux https://github.com/tsnsoft/Linux - Лекции по linux
+Linux #  https://github.com/tsnsoft/Linux - Лекции по linux
 https://github.com/fhunter/unix-lectures - Лекции по командной строке и unix.
-LPIC подготовка https://github.com/ksemaev/lpic_1-101
+LPIC подготовка #  https://github.com/ksemaev/lpic_1-101
 https://github.com/ksemaev/lpic_1-102
 https://github.com/ksemaev/lpic_2-201
-Основы GNU-Linux и подготовка к RHCSA https://gitlab.com/doatta/gnu-linux-rhcsa
-Программирование https://github.com/javascript-tutorial/ru.javascript.info/tree/master - Обучение javascript https://github.com/kontur-course-nsk/lecture - Тут описаны семинарские занятия потока backend (C#) школы разработки СКБ Контур в Новосибирске https://github.com/Konstantin8105/Effective_Go_RU - Самоучитель golang
-https://github.com/cvlabmiet/master-programming - Лекции по программированию для студентов НИУ МИЭТ. https://github.com/kolei/OAP - Основы алгоритмизации и программирования</description>
+Основы GNU-Linux и подготовка к RHCSA #  https://gitlab.com/doatta/gnu-linux-rhcsa
+Программирование #  https://github.com/javascript-tutorial/ru.javascript.info/tree/master - Обучение javascript https://github.com/kontur-course-nsk/lecture - Тут описаны семинарские занятия потока backend (C#) школы разработки СКБ Контур в Новосибирске https://github.com/Konstantin8105/Effective_Go_RU - Самоучитель golang
+https://github.com/cvlabmiet/master-programming - Лекции по программированию для студентов НИУ МИЭТ.</description>
     </item>
     
     <item>
@@ -195,7 +196,8 @@ https://github.com/cvlabmiet/master-programming - Лекции по програ
       <guid>https://infoanarchy.github.io/docs/communities/</guid>
       <description>https://github.com/russian-meshnet/faq - Сообщество по mesh сетям и распределённым системам
 https://github.com/netstalking-core/netstalking-catalogue - Сообщество по поиску по окрытым источникам в сети
-https://github.com/goq/telegram-list - Огромный список it групп и каналов в телеграмме</description>
+https://github.com/goq/telegram-list - Огромный список it групп и каналов в телеграмме
+https://t.me/Center_of_Anarchy - Список сообществ анархистов</description>
     </item>
     
   </channel>
