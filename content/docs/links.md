@@ -16,14 +16,19 @@ type: docs
 
 ## Пока ещё живо
 
+
+- [Чья-то литературная библиотека](https://drive.google.com/drive/folders/1IYWYAZ2AGP1rNmpkalck38uhi0I-0Qom)
+- [200 ГБ пиратской библиотеки с художественной литературой](https://libruks.wordpress.com)
+- [Образовательная литература](https://disk.yandex.ru/d/N2yGT_wfy5T1Ow)
+- [База раздач всех торрент-трекеров](https://disk.yandex.ru/d/EPd4aUMWzv2aSQ). Если все VPN наебнутся, у тебя под рукой всегда будет каталог торрентов, будешь раздавать и принимать раздачи от других анонов. За компанию, [парсер rutracker.org](https://pastebin.com/V7BNpTdz) на питоне
+- [ФУРРИ ГЕЙ ПОРНО СКАЧАТЬ ГУГЛ ДИСК, ГОЛЫЕ ЖОПЫ, ЧЛЕНЫ, И МОКРЫЕ ПИСЬКИ](https://drive.google.com/drive/folders/0B3FHHAnS9t9jVkRoMnFfTm9iR2M). Не спрашивайте.
 - [293 книги издательства МИФ - 2018](https://drive.google.com/file/d/19hKtkk_tp1Zm_BrpqBUkp6agOswf6__k/view) ([direct](https://drive.google.com/uc?id=19hKtkk_tp1Zm_BrpqBUkp6agOswf6__k))
-- [Дамп википедии с инструкцией](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
-- [Дампы вики и не только](https://wiki.kiwix.org/wiki/Content_in_all_languages)
-- [Дамп лурочки от мая 2018 года](https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550) в формате .chm (Статьи типа Конопля/твоя мать - заблочены - другими словами дамп качал жопорук без прокси, если хочешь почитать о Конопля без заглушки перекачай через прокси например Польши (можешь даже скинуть нам новый дамп)). [Прямая ссылка на диск](https://disk.yandex.ru/d/YE71GH1Z3WQbcf)
+- [Дамп википедии](https://en.wikipedia.org/wiki/Wikipedia:Database_download), [программа для просмотра](https://wiki.kiwix.org/wiki/Content_in_all_languages)
+- [Дамп лурочки от мая 2018 года](https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550) в формате .chm. Нет статей типа «Конопля». Если очень надо, перекачай через прокси, например, Польши (можешь даже скинуть нам новый дамп). [Прямая ссылка на диск](https://disk.yandex.ru/d/YE71GH1Z3WQbcf)
 - [Терабайты тохомузыки](https://tlmc.eu)
 - [Понимузыка](https://thatmusicbrony.tumblr.com), [ещё](https://ponyvillelive.com/mlpma)
 - [Сборник контента от братушек с форчана](https://info.stylee32.net)
-- [Редитовский аналог этой вики](https://reddit.com/r/DataHoarder/wiki/index), содержит огромное количество важной инфы, обязателен к чтению.
+- [Реддитовский аналог этой вики](https://reddit.com/r/DataHoarder/wiki/index), содержит огромное количество важной инфы, обязателен к чтению
 - [Архив с музыкой на 60 гигов](https://yadi.sk/d/YQus0gyATXHuNg). Чел который выкинул, написал что много интересного и редкого
 - [i2p и анонимизация](https://yadi.sk/d/GyMDaD7EgEanV)
 - [5 гигов бытовой психологии и вылезаторства](https://yadi.sk/d/AiT4NO8PgQ75G), [вылезаторам](https://yadi.sk/d/YB3HhdlWeqh8w)
@@ -41,25 +46,25 @@ type: docs
 - [Пак с шебм](https://yadi.sk/d/GBCxMkc1snJST)
 - [Архив тредов и тредшотов](https://yadi.sk/d/iLhFmTverTjrv)
 - [Большой пак разной годноты и не только](https://yadi.sk/d/4Qfrt1Dli6DVT)
-- [Говно](https://yadi.sk/d/UVnyJLn6rV4ws). Коротко и просто. Не знаю, что там.
+- [Говно](https://yadi.sk/d/UVnyJLn6rV4ws). Коротко и просто. Не знаю, что там
 - [Воровач](https://yadi.sk/d/hD_ZDk70rV4o7)
 - [Вишмастер](https://yadi.sk/d/Poas7swxrV4qs)
 - [Пак гифок, 2009-2013](https://yadi.sk/d/DmNOXauQraC6Z). ohweireGhuoNahlei5aiweZei3ceex
 - [Пак досок](https://mega.nz/folder/SFlUwSKb#lPNpq9qwEvYkDHhm8LM88w)
-- [Нетсталкерская хуйня](https://mega.nz/file/rlUiAbxZ#LzjFx_qvW0fYgu35y2s_lKdT7zoC1PLHkV84i90M2CI) очень много всего запароленного. В курсе, что мейн пароль = название крупной борды, вымершей в 2014.
+- [Нетсталкерская хуйня](https://mega.nz/file/rlUiAbxZ#LzjFx_qvW0fYgu35y2s_lKdT7zoC1PLHkV84i90M2CI) очень много всего запароленного. В курсе, что мейн пароль = название крупной борды, вымершей в 2014
 - [Пак с куклами](https://yadi.sk/d/YT6qWA_juJS2N)
 - [Гайды](https://yadi.sk/d/H9OxVjn0uopNt)
 - [Книги по варкрафту](https://drive.google.com/drive/folders/1Kniiw-sBuEsj41spB4G8JWcxSLhfcXJC)
 
 ***
 
-[20 гигов тредов](magnet:?xt=urn:btih:53f3eff363f805dd643c1ac0c7f8ab66a985d213&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%2fannounce&tr=http%3a%2f%2ftracker.publicbt.com%2fannounce)
+[20 ГБ тредов](magnet:?xt=urn:btih:53f3eff363f805dd643c1ac0c7f8ab66a985d213&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%2fannounce&tr=http%3a%2f%2ftracker.publicbt.com%2fannounce)
 
 ![Архив досок](./pic/arhiv_dosok.png)
 
 ***
 
-[Пак 70Гб](magnet:?xt=urn:btih:ee5ab527caa134e0c12a03bf1818e1f1e3a761fd). Торрент-файл невъебенно жирный, 30Мб. µTorrent его не открывает вообще, берите [transmission](https://transmissionbt.com/download)
+[Пак 70 ГБ](magnet:?xt=urn:btih:ee5ab527caa134e0c12a03bf1818e1f1e3a761fd). Торрент-файл невъебенно жирный, 30Мб. µTorrent его не открывает вообще, берите [transmission](https://transmissionbt.com/download)
 
 ![Не открывается](./pic/paki_dlya_imidzhbord.PNG)
 
